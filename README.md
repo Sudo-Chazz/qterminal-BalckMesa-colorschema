@@ -1,4 +1,4 @@
-# A simple theme for Konsole or Qterminal 
+# A Simple Theme for Konsole or Qterminal 
 
 Nothing Fancy other than a recolor that is configured with dark and mute colors to make it easy on the eyes. This is mostly for my personal use but others are free to use it if they please.
 
